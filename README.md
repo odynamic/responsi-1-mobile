@@ -14,7 +14,7 @@ Proyek ini merupakan hasil responsi dari praktikum mata kuliah Pemrograman Mobil
 
 ## **Demo Aplikasi**
 Berikut tampilan singkat aplikasi **Responsi 1 Mobile (H1D023022)**  
-![Demo Aplikasi](demo-responsi-1.gif))
+![Demo Aplikasi](demo-responsi-1.gif)
 
 ---
 
