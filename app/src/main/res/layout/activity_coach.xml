@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF5F7FB"
+    android:gravity="center_horizontal"
+    android:padding="0dp"
+    tools:context=".ui.activity.CoachActivity">
+
+    <ImageView
+        android:id="@+id/imgCoach"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/coach_placeholder"
+        android:contentDescription="Coach Photo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bg_card"
+        android:elevation="6dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/tvCoachName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Coach Name"
+            android:textStyle="italic"
+            android:textSize="22sp"
+            android:textColor="@android:color/black"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tvCoachBirth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Date of Birth"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tvCoachNationality"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Nationality"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:gravity="center" />
+    </LinearLayout>
+
+</LinearLayout>

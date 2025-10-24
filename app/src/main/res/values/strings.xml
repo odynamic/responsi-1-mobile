@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile (H1D023022)</string>
+    <string name="club_name">Olympique de Marseille</string>
+    <string name="club_history_title">Olympique de Marseille History</string>
+    <string name="club_profile">
+    Olympique de Marseille (OM) is a professional football club based in Marseille, France.
+    Founded in 1899, the club has become one of the most successful and beloved teams in French football history.
+    OM is known for its passionate supporters and its home ground, the Stade Vélodrome, which has been a symbol of southern pride for over a century.
+    </string>
+
+    <string name="club_history_text">
+    Olympique de Marseille was founded in 1899 by Rene Dufaure de Montmirail in the vibrant city of Marseille, France.
+    The club was created with the vision of uniting the people of the port city through sport.
+    From the very beginning, Marseille developed a strong footballing identity, built on passion, pride, and a fearless attacking style that reflected the character of its supporters.
+    In its early decades, OM became a powerhouse in southern France and soon gained national recognition by winning several league and cup titles.
+
+    \n\nDuring the post-war years, Olympique de Marseille continued to grow in popularity and influence.
+    The club became a symbol of the city, representing the diversity, energy, and resilience of Marseille people.
+    The 1970s and 1980s marked periods of both success and challenge, as OM experienced fluctuations in performance but never lost the unwavering devotion of its fans.
+    The atmosphere at the Stade Velodrome remained one of the most passionate and intimidating in European football.
+
+    \n\nThe club reached its golden era in the late 1980s and early 1990s under the leadership of Bernard Tapie.
+    With world-class players such as Jean-Pierre Papin, Abedi Pele, and Didier Deschamps, Marseille dominated French football and achieved the greatest moment in its history in 1993.
+    That year, OM defeated AC Milan 1-0 in Munich to win the UEFA Champions League, becoming the first and only French club to lift the trophy, a milestone that still defines the pride of the city.
+
+    \n\nToday, Olympique de Marseille remains one of the most iconic and respected football clubs in Europe.
+    The team continues to compete at the highest level in Ligue 1, driven by its loyal supporters and rich tradition.
+    The fierce rivalry with Paris Saint-Germain, known as Le Classique, embodies more than just football—it reflects the enduring contrast between the north and south of France.
+    Through triumphs and challenges, OM stands as a living symbol of determination, unity, and the unbreakable spirit of Marseille.
+    </string>
+
+    <string name="button_history">Club History</string>
+    <string name="button_coach">Head Coach</string>
+    <string name="button_squad">Team Squad</string>
+
+    <string name="label_founded">Founded:</string>
+    <string name="label_stadium">Stadium:</string>
+    <string name="label_date_of_birth">Date of Birth:</string>
+    <string name="label_nationality">Nationality:</string>
+    <string name="label_position">Position:</string>
+    <string name="label_shirt_number">Shirt Number:</string>
+
+    <string name="error_loading_data">Error loading data.</string>
+    <string name="no_data_available">No data available.</string>
+</resources>
