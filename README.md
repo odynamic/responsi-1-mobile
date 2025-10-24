@@ -14,8 +14,7 @@ Proyek ini merupakan hasil responsi dari praktikum mata kuliah Pemrograman Mobil
 
 ## **Demo Aplikasi**
 Berikut tampilan singkat aplikasi **Responsi 1 Mobile (H1D023022)**  
-(ikon aplikasi terlihat pada bagian awal demo):
-![Demo Aplikasi](https://github.com/odynamic/responsi-1-mobile/blob/main/demo-responsi-1.gif)
+![Demo Aplikasi](demo_pertemuan3.gif))
 
 ---
 
